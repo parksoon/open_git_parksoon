@@ -1,6 +1,5 @@
 <html>
 <body>
 <h1>두번째파일</h1>
-정리2
 </body>
 </html>
