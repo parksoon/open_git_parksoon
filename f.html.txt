@@ -3,6 +3,7 @@
 <h1>두번째파일</h1>
 <ul>
 ul추가
+<li>li추가</li>
 </ul>
 </body>
 </html>
