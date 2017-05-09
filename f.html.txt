@@ -1,7 +1,9 @@
 <html>
 <body>
 <style></style>
-<head></head>
+<head>
+<title>git수업</title>
+</head>
 <h1>두번째파일</h1>
 <ul>
 ul추가
@@ -10,7 +12,6 @@ ul추가
 <li>branches</li>
 <li>브런치추가 </li>
 <li>충돌</li>
-<li>충돌해결</li>
 <li>원격저장소</li>
 </ul>
 </body>
