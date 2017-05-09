@@ -10,6 +10,7 @@ ul추가
 <li>branches</li>
 <li>브런치추가 </li>
 <li>충돌</li>
+<li>원격저장소</li>
 </ul>
 </body>
 </html>
