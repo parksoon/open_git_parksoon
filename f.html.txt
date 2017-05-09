@@ -1,5 +1,6 @@
 <html>
 <body>
+<style></style>
 <head></head>
 <h1>두번째파일</h1>
 </body>
