@@ -15,6 +15,7 @@ ul추가
 <li>원격저장소</li>
 <li>push</li>
 <li>pull</li>
+<li>soon</li>
 </ul>
 </body>
 </html>
